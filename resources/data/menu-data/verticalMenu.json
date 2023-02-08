@@ -1,0 +1,22 @@
+{
+  "menu": [
+
+    {
+        "url": "/api/users",
+        "name": "USER",
+        "badge": "",
+        "badgeClass": "",
+        "icon": "user",
+        "slug": "users.index"
+      },
+      {
+        "url": "/api/product",
+        "name": "PRODUCT",
+        "badge": "",
+        "badgeClass": "",
+        "icon": "box",
+        "slug": "product.index"
+      }
+
+  ]
+}
